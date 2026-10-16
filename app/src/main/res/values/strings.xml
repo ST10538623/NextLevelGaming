@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Next Level Gaming</string>
+    <string name="back">Back</string>
+    <string name="home">Home</string>
+    <string name="packages">Packages</string>
+    <string name="experiences">Experiences</string>
+    <string name="calculate_fees">Calculate fees</string>
+    <string name="contact">Contact</string>
+</resources>
